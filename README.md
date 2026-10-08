@@ -1,4 +1,3 @@
-[README(1).md](https://github.com/user-attachments/files/33194674/README.1.md)
 # BrightBlog – React Blog Management System
 
 A modern and responsive **Blog Management System** built with **React.js, Vite, React Router, and Tailwind CSS**.
